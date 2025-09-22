@@ -23,7 +23,7 @@ Studio kullanılırken, veritabanı işlemleri için SQL Server Management Studi
 tercih edilmiştir. Bu yapıyı kullanarak hem kullanıcı deneyimini ön planda
 tuttuk hem de kod yapısını düzenli, modüler ve sürdürülebilir bir hale getirdik.
 
-KULLANILAN TEKNOLOJİLER:
+KULLANILAN ARAÇLAR:
 
 Visual Studio (Geliştirme ortamı) SQL Server Management Studio (Veri tabanı
 yönetimi)
