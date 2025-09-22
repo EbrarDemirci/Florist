@@ -48,4 +48,12 @@ yönetimi)
 <img width="1899" height="942" alt="Ekran görüntüsü 2025-09-22 161128" src="https://github.com/user-attachments/assets/70861cbc-b1c8-4544-9617-073eccacdb07" />
 <img width="1898" height="938" alt="Ekran görüntüsü 2025-09-22 161140" src="https://github.com/user-attachments/assets/503c47ef-e765-43b4-b1db-f09ba4a4aa16" />
 <img width="1893" height="943" alt="Ekran görüntüsü 2025-09-22 163247" src="https://github.com/user-attachments/assets/29b9afad-4c3b-45c5-8288-570d0ab26f0d" />
+![WhatsApp Görsel 2025-09-22 saat 18 50 41_53634d4a](https://github.com/user-attachments/assets/77575b31-f7bf-4246-b9a5-ec3a269c802c)
+![WhatsApp Görsel 2025-09-22 saat 18 48 11_3b603d8d](https://github.com/user-attachments/assets/5afec6c3-6bf3-4609-8cf7-69c0e1f966f5)
+![WhatsApp Görsel 2025-09-22 saat 18 48 23_8deca41a](https://github.com/user-attachments/assets/60c1bc68-f7d8-4f04-95e8-ec7bc22e7ca3)
+![WhatsApp Görsel 2025-09-22 saat 18 48 23_9a4f9926](https://github.com/user-attachments/assets/b8bfe980-39a9-4965-97b6-f63b741761d2)
+![WhatsApp Görsel 2025-09-22 saat 18 48 23_dc3696f3](https://github.com/user-attachments/assets/e012c2f4-683c-4494-b6ab-fe40cc9bf578)
+
+
+
 
