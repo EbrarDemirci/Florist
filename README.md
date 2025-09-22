@@ -32,6 +32,9 @@ yönetimi)
 <img width="1903" height="947" alt="Ekran görüntüsü 2025-09-22 160538" src="https://github.com/user-attachments/assets/347966bf-c674-4f71-bdaf-a6edef2e8a5b" />
 <img width="1900" height="942" alt="Ekran görüntüsü 2025-09-22 160704" src="https://github.com/user-attachments/assets/c6ad1979-3369-4191-99b6-fa36c587674a" />
 <img width="1901" height="938" alt="Ekran görüntüsü 2025-09-22 160615" src="https://github.com/user-attachments/assets/0db22d96-0c23-4a54-8b62-3b57fa44a41d" />
+<img width="1915" height="939" alt="Ekran görüntüsü 2025-09-22 171339" src="https://github.com/user-attachments/assets/1d60fbff-8894-4621-9387-27a4a1a71173" />
+<img width="1916" height="940" alt="Ekran görüntüsü 2025-09-22 171418" src="https://github.com/user-attachments/assets/42824ee7-a639-404e-8d82-a99bd60a2237" />
+<img width="1918" height="938" alt="Ekran görüntüsü 2025-09-22 171432" src="https://github.com/user-attachments/assets/0cdad0f6-e6a0-4499-a56f-d75f68f5abaa" />
 <img width="1896" height="939" alt="Ekran görüntüsü 2025-09-22 160721" src="https://github.com/user-attachments/assets/fe7306cf-dbeb-4956-8f3e-56b3dd441508" />
 <img width="1899" height="937" alt="Ekran görüntüsü 2025-09-22 160734" src="https://github.com/user-attachments/assets/4cfb37ff-eb47-4355-81aa-29193b6d3634" />
 <img width="1897" height="940" alt="Ekran görüntüsü 2025-09-22 160808" src="https://github.com/user-attachments/assets/53775e0c-b23f-407e-83fc-33dee304cacf" />
